@@ -13,5 +13,5 @@ You are allowed to download this plugin, but you are not allowed to claim this p
 
 Open the players storage
 ```
-TEST
+Not added yet
 ```
