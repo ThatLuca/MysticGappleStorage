@@ -10,6 +10,8 @@ You are allowed to download this plugin, but you are not allowed to claim this p
 | Yml              |
 
 # 🔥Api 
+
+Open the players storage
 ```
 TEST
 ```
